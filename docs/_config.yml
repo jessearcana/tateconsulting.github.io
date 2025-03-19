@@ -33,6 +33,10 @@ collections:
     output: true
   team:
     output: true
+  products:
+    output: true
+  news:
+    output: true
 
 defaults:
   - scope:
@@ -40,6 +44,11 @@ defaults:
       type: "services"
     values:
       layout: "service"
+  - scope:
+      path: ""
+      type: "products"
+    values:
+      layout: "product"
   - scope:
       path: ""
       type: "team"
