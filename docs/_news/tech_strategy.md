@@ -4,7 +4,7 @@ date: 2025-03-20T14:23:33+10:30
 layout: article
 weight: 1
 image: "images/commercialisation_consulting.jpg"
-tease: "An established company has been developing new technology through R&D activities. They engaged Arcana to review a promising technology and their commercialisation so far, and to recommend a strategy going forward."
+tease: "An established company has been developing new technology through R&D activities. They engaged Arcana to review their promising technology and commercialisation progress, and to recommend a strategy going forward. "
 ---
 
 # Outcomes
