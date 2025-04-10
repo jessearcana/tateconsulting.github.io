@@ -2,7 +2,7 @@
 title: "Arcana improving aged care"
 date: 2023-04-11T10:09:57+09:30
 layout: article
-weight: 1
+weight: 2
 image: "images/aged_care.jpg"
 tease: "An Australian, Aged Care provider was looking use their data to improve patient outcomes with reduced funding. Arcana were engaged to prototype an approach to apply AI to routinely collected patient data. Inferences from this will allow the client to improve their existing workflows."
 ---
