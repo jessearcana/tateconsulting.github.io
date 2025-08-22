@@ -1,29 +1,3 @@
 [
-  {
-    "title": "Free Consultation",
-    "description": "For a limited time, spend a half hour describing a challenge you face in your business and get a free high level solution proposal.",
-    "image": {
-      "url": "images/person-chalkboard.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Cloud vs Hybrid",
-    "description": "Moving to the cloud can save you money, or cost even more. Get solution advice that optimises elasticity in the cloud based on your data and needs.",
-    "image": {
-      "url": "images/cloud.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "IRAP / Essential 8",
-    "description": "Need solution design that observes specific security controls? Scale, security and privacy are key elements in any engagement.",
-    "image": {
-      "url": "images/shield-halved.svg",
-      "width": 80,
-      "height": 80
-    }
-  }
+
 ]

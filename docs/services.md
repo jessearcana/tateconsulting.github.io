@@ -6,6 +6,6 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-# Consulting and project work
+# Services Overview
 
-Contact us to discuss how investing in a few days of advice could unlock huge value for your business. Alternately, suggest a report, deliverable, research project or design that can be scoped and quoted for delivery in an agreed timeframe.
+Explore the range of services offered to support your child’s development. Each service is tailored to meet individual needs and goals.

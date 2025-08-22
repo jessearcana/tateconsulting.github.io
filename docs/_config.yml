@@ -1,10 +1,8 @@
 baseurl: ''
 permalink: pretty
-title: 'Apex Arcana'
+title: 'Nurture and Blossom Behaviour Consulting'
 email: 'webmaster@arcana.com.au'
-description: 'Data and IT solutions for integration, scale and better human experiences. Leverage 25 years of experience to understand and solve your hardest problems.'
-
-# url: "http://arcana.com.au" # the base hostname & protocol for your site, e.g. http://example.com
+description: 'Board Certified Behaviour Analyst providing individualised care for children with developmental needs. Specialising in Applied Behaviour Analysis to nurture skills and cultivate futures.'
 
 homepage:
   show_call_box: true
@@ -13,12 +11,12 @@ footer:
   copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 seo:
-  meta_og_title: "Apex Arcana - IT Consulting"
+  meta_og_title: "Nurture and Blossom Behaviour Consulting"
   meta_og_type: "website"
-  meta_og_url: "https://arcana.com.au"
-  meta_og_image: "https://arcana.com.au/images/social.png"
-  meta_og_description: "Data and IT solutions for integration, scale and better human experiences. Leverage 25 years of experience to understand and solve your hardest problems."
-  google_analytics_id: "G-DML1QM0XS9"
+  meta_og_url: "https://nurtureblossombc.com.au"
+  meta_og_image: "https://nurtureblossombc.com.au/images/social.png"
+  meta_og_description: "Board Certified Behaviour Analyst providing individualised care for children with developmental needs. Specialising in Applied Behaviour Analysis to nurture skills and cultivate futures."
+  google_analytics_id: ""
 
 logo:
   mobile: "images/logo/logo.svg"
@@ -31,12 +29,6 @@ home:
 collections:
   services:
     output: true
-  team:
-    output: true
-  products:
-    output: true
-  news:
-    output: true
 
 defaults:
   - scope:
@@ -46,12 +38,12 @@ defaults:
       layout: "service"
   - scope:
       path: ""
-      type: "products"
+      type: "values"
     values:
       layout: "product"
   - scope:
       path: ""
-      type: "team"
+      type: "about"
     values:
       layout: "team"
 
@@ -60,7 +52,7 @@ sass:
   style: compact # possible values: nested expanded compact compressed
   precision: 10
 
-url: "https://arcana.com.au"
+url: "https://nurtureblossombc.com.au"
 
 plugins:
   - jekyll-environment-variables
