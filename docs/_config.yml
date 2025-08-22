@@ -1,4 +1,4 @@
-baseurl: 'nurtureblossombc.github.io/'
+baseurl: ''
 permalink: pretty
 title: 'Nurture and Blossom Behaviour Consulting'
 email: 'webmaster@arcana.com.au'
@@ -52,7 +52,7 @@ sass:
   style: compact # possible values: nested expanded compact compressed
   precision: 10
 
-url: "https://nurtureblossombc.com.au"
+url: "https://jessearcana.github.io/nurtureblossombc.github.io/"
 
 plugins:
   - jekyll-environment-variables
