@@ -20,7 +20,7 @@ seo:
 
 logo:
   mobile: "images/logo/logo.svg"
-  desktop: "images/logo/logo.svg"
+  desktop: "images/logo_horizontal.svg"
   desktop_height: "50px"
 
 home: 
@@ -41,9 +41,6 @@ defaults:
       type: "values"
     values:
       layout: "product"
-  - scope:
-      path: ""
-      type: "about"
     values:
       layout: "team"
 

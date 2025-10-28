@@ -1,6 +1,6 @@
 ---
 title: Nurture and Blossom Behaviour Consulting
-layout: home
+layout: page
 date: 2025-08-22T03:09:46+09:30
 home_banner_image: "images/widegraph-banner.png"
 home_banner_image_hide_mobile: true
@@ -11,18 +11,20 @@ show_call_box: true
 ---
 # Nurturing skills, cultivating futures
 
-I provide evidence-based neuro-affirming therapy to children with delays (Autism, speech delay, Global developmental delays). I tailor each program to suit the individual and family's needs. I come to you in the home, childcare or community setting, across Adelaide metro.
+ABN 81 936 143 390
 
-I use behavioural principles such as prompting and reinforcement to teach new skills and gradual shaping from one approximation to the next. I can help to teach your child to communicate, engage in leisure activities, self-care skills, and skills needed to reduce behaviours of concern such as transitioning, waiting and tolerating no.
+**Helping children grow through play, connection, and evidence-based support.**
 
-**Areas of Practice:**
-- Applied Behaviour Analysis
-- Autism Spectrum Disorder
-- Acceptance and Commitment Therapy
-- Challenging Behaviour Reduction
-- Early Intensive Behaviour Intervention
-- Emotions and Perspective Taking
-- Functional Communication
-- Relational Frame Theory
-- Social Skills
-- Speech and Language Development
+I provide warm, neuro-affirming therapy for children with developmental delays, tailored to each child and family. With a play-based and fun approach, I come to you at home, childcare, or in the community across Adelaide.
+
+My strategies draw on behavioural principles such as prompting, reinforcement, and gradual shaping to teach new skills step by step.
+
+
+**I can support your child to:**
+  - Learn to communicate and express themselves
+  - Build play and leisure skills
+  - Develop self-care and independence
+  - Strengthen social and emotional skills
+  - Reduce barriers to daily life, such as difficulties with transitions, waiting, or tolerating “no”
+  - Increase confidence with routines like haircuts, nail trimming, and toothbrushing
+
