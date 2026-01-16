@@ -22,10 +22,10 @@ The consultancy has assisted Not for Profit, Local and State Government organisa
 -  Strategic planning
 -  Regional collaboration and shared services
 -  Elected Member and staff workshops and facilitation
--  CEO performance reviews
+-  CEO and senior staff performance reviews
 -  Prudential reports
 -  Mentoring and advice
--  Environment – stormwater management, wastewater, River Murray community projects, waste management, energy, green buildings
+-  Environment – Policy and strategy relating to stormwater management, waste management, energy and organisational sustainability.
 -  Regional economy – business growth intentions
 -  Local and State Government collaboration
 -  Amalgamation and boundary change processes.
