@@ -14,7 +14,7 @@ Jeff is a specialist in policy and strategy development, review and implementati
 
 He has extensive experience in the local government sector including almost 20 years as Chief Executive. As Chief Executive of the City of Onkaparinga for over 14 years, the largest local authority in South Australia created from an amalgamation of three former Councils, Jeff led the organisation to become a high performing organisation with a national reputation for innovation in meeting current and emerging needs of its communities.
 
-Jeff is also an experienced Board member and is currently the Chair of the South Australian Coast Protection Board.
+Jeff is also an experienced Board member.
 
 The consultancy has assisted Not for Profit, Local and State Government organisations in a wide range of areas, including:
 -  Organisational reviews and governance – transformation, role clarity, alignment with strategy, systems, structure, performance
