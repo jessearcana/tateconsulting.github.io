@@ -3,6 +3,9 @@
     {% if site.data.contact.phone %}
         <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
     {% endif %}
+    {% if site.data.contact.mail %}
+        <div class="call-mail"><strong>Mail: </strong> {{ site.data.contact.mail }} </div>
+    {% endif %}
     {% if site.data.contact.email_obfuscated %}
     <div class="call-email"><strong>Email: </strong>
       <a class="eml-protected" href="#">{{ site.data.contact.email_obfuscated }}</a>

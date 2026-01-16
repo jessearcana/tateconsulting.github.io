@@ -1,0 +1,22 @@
+---
+layout: default
+bodyClass: "page-home"
+---
+
+<div class="intro">
+  <div class="container">
+    <div class="row home-banner" style="margin:0;">
+      <img alt="{{ page.title }}" class="home-banner-image{% if page.home_banner_image_hide_mobile %} home-banner-image-hide-mobile{% endif %}" src="{{ page.home_banner_image | relURL }}" style="width: 100%;">
+    </div>
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-12">
+        <div class="content">
+          {{content}}
+        {% if page.show_call_box %}
+          {% include call.html show_button=false %}
+        {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

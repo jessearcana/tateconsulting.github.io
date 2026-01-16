@@ -1,8 +1,8 @@
 baseurl: ''
 permalink: pretty
-title: 'Nurture and Blossom Behaviour Consulting'
+title: 'Jeff Tate Consulting'
 email: 'webmaster@arcana.com.au'
-description: 'Board Certified Behaviour Analyst providing individualised care for children with developmental needs. Specialising in Applied Behaviour Analysis to nurture skills and cultivate futures.'
+description: 'Jeff is a specialist in policy and strategy development, review and implementation; organisational alignment; partnering and relationships; governance; problem solving; leadership mentoring and coaching; and facilitation and negotiation.'
 
 homepage:
   show_call_box: true
@@ -11,16 +11,16 @@ footer:
   copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 seo:
-  meta_og_title: "Nurture and Blossom Behaviour Consulting"
+  meta_og_title: "Jeff Tate Consulting"
   meta_og_type: "website"
-  meta_og_url: "https://nurtureblossombc.com.au"
-  meta_og_image: "https://nurtureblossombc.com.au/images/social.png"
-  meta_og_description: "Board Certified Behaviour Analyst providing individualised care for children with developmental needs. Specialising in Applied Behaviour Analysis to nurture skills and cultivate futures."
+  meta_og_url: "https://tateconsulting.com.au"
+  meta_og_image: "https://tateconsulting.com.au/images/jeff_tate.jpg"
+  meta_og_description: "Jeff is a specialist in policy and strategy development, review and implementation; organisational alignment; partnering and relationships; governance; problem solving; leadership mentoring and coaching; and facilitation and negotiation."
   google_analytics_id: ""
 
 logo:
   mobile: "images/logo/logo.svg"
-  desktop: "images/logo_horizontal.svg"
+  desktop: "images/logo/logo.svg"
   desktop_height: "50px"
 
 home: 
@@ -49,7 +49,7 @@ sass:
   style: compact # possible values: nested expanded compact compressed
   precision: 10
 
-url: "https://jessearcana.github.io/nurtureblossombc.github.io"
+url: "https://jessearcana.github.io/tateconsulting.github.io"
 
 plugins:
   - jekyll-environment-variables
