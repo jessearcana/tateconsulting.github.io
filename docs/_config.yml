@@ -1,4 +1,4 @@
-baseurl: '/tateconsulting.github.io'
+baseurl: ''
 permalink: pretty
 title: 'Jeff Tate Consulting'
 email: 'webmaster@arcana.com.au'
@@ -49,7 +49,7 @@ sass:
   style: compact # possible values: nested expanded compact compressed
   precision: 10
 
-url: "https://jessearcana.github.io/tateconsulting.github.io"
+url: "https://tateconsulting.com.au"
 
 plugins:
   - jekyll-environment-variables
